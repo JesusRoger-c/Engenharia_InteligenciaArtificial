@@ -19,6 +19,9 @@ lista_de_medias = [
 #print(lista_de_nomes)
 #print(lista_de_medias)
 
+
+len(lista_de_medias)
+
 n = 0
 while n < 5:
      lista_de_medias[n] = lista_de_medias[n] + 1.0
@@ -28,7 +31,8 @@ while n < 5:
      n = n + 1
 
 
-print(lista_de_medias)
+
+
 
 
 
