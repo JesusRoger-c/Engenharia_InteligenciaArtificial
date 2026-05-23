@@ -14,4 +14,15 @@ dict_desafio = [
 ]
 
 #print(dict_desafio)
-print(dict_desafio[0]["marca_carro"])
+#print(dict_desafio[0]["marca_carro"])
+
+
+# n = 0
+# while n < len(dict_desafio):
+#     print(f"{n} - {dict_desafio[n]}")
+#     n += 1
+
+
+
+for elemento in dict_desafio:
+    print(f"Veja: {elemento}")
